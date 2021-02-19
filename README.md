@@ -1,4 +1,4 @@
-# Portfolio_Test
+#Portfolio_Test
 <!--
 
 *** To avoid retyping too much info. Do a search and replace for the following:
@@ -19,14 +19,11 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT -->
 <br />
 <p align="center">
-  <a href="https://github.com/KarmicFuture/Portfolio_Test">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Portfolio</h3>
+  <h3 align="center">PORTFOLIO</h3>
 
   <p align="center">
     Learning This
@@ -75,10 +72,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+#[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+#Here's a blank template to get started:
+#**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `KarmicFuture`, `Portfolio_Test`, `thyproductguy`, `email`, `Portfolio`, `Learning This`
 
 
