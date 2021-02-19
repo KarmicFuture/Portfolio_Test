@@ -63,7 +63,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
@@ -72,18 +72,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-#Here's a blank template to get started:
-#**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`KarmicFuture`, `Portfolio_Test`, `thyproductguy`, `email`, `Portfolio`, `Learning This`
+This project is a sample of how to to create a customer driven software, and how we iterate through the different parts.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+This is a test project with some PHP and Python
 
 
 
@@ -116,14 +110,17 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is used primarly as a place holder project for the portfolio
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://karmicfuture.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
+
+Roadmap is not available, this is a test of the portfolio 
+
 
 See the [open issues](https://github.com/KarmicFuture/Portfolio_Test/issues) for a list of proposed features (and known issues).
 
@@ -132,7 +129,7 @@ See the [open issues](https://github.com/KarmicFuture/Portfolio_Test/issues) for
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -145,7 +142,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+No current License 
 
 
 
